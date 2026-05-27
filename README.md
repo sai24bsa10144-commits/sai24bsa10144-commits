@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=sai24bsa10144-commits">
-    <img src="https://komarev.com/ghpvc/?username=sai24bsa10144-commits&label=Profile%20views&color=00FFFF&style=flat-square" alt="sai24bsa10144-commits's profile views" />
+   
   </a>
 </p>
 
