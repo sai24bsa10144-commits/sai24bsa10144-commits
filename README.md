@@ -22,7 +22,7 @@
   <img src="https://streak-stats.demolab.com/?user=sai24bsa10144-commits&theme=radical&hide_border=true&cache_seconds=86400" alt="sai24bsa10144-commits's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=sai24bsa10144-commits&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Sai Sovan Pattanayak's GitHub Trophies" />
+  
 </p>
 
 
